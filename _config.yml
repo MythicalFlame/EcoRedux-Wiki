@@ -4,8 +4,6 @@ theme: just-the-docs
 
 url: https://wiki.ecoredux.net
 
-aux_links:
-  Wiki on Github: https://github.com/EcoRedux/EcoRedux-Wiki
 color_scheme: dark
 logo: "/assets/images/ecoredux.png"
 favicon_ico: "/assets/images/favicon.ico"
