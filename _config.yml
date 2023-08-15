@@ -6,3 +6,10 @@ url: https://wiki.ecoredux.net
 color_scheme: dark
 logo: "/assets/images/ecologo.png"
 favicon_ico: "/assets/images/favicon.ico"
+nav_external_links:
+  - title: Join our Discord!
+    url: https://discord.gg/ecoredux
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: Map
+    url: https://map.ecoredux.net
+    hide_icon: false
