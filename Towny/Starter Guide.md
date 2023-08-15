@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Starter Guide
+title: Quick Start
 parent: Towny
 nav_order: 1
 ---
