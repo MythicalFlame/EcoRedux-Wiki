@@ -3,7 +3,6 @@ description: A wiki for EcoRedux storing all of the information needed!
 theme: just-the-docs
 
 url: https://wiki.ecoredux.net
-
 color_scheme: dark
-logo: "/assets/images/ecoredux.png"
+logo: "/assets/images/ecologo.png"
 favicon_ico: "/assets/images/favicon.ico"
