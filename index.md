@@ -7,7 +7,7 @@ nav_order: 0
 
 ![title-banner](https://media.discordapp.net/attachments/1096551392631590956/1140896468144750592/eocreduxs2.png)
 
-# <div align="center"> Welcome to the Ecoredux Wiki! </div>
+#  Welcome to the Ecoredux Wiki! 
 EcoRedux is a Minecraft Server with Towny and Earth as the main focus.
 You can join us at `ecoredux.net (The Port is 25565)`,
 and our Discord [here](discord.gg/ecoredux).
