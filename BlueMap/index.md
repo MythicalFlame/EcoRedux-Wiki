@@ -29,6 +29,7 @@ The Map can still be used for it's 2D function with more detail compared to othe
 ``3D View inside a Town.``
 
 ![banner](https://media.discordapp.net/attachments/787193142722035762/1142423869047722014/image.png?width=567&height=473)
+
 ``Town Marker.``
 
 ---
