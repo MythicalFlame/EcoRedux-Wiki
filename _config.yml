@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://wiki.ecoredux.net
 color_scheme: dark
-logo: "/assets/images/ecologo.png"
+logo: "/assets/images/ecrb.png"
 favicon_ico: "/assets/images/favicon.ico"
 nav_external_links:
   - title: Join our Discord!
