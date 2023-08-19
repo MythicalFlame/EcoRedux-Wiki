@@ -4,7 +4,7 @@ title: Live Map
 has_children: true
 nav_order: 4
 ---
-# Live Map
+# **Live Map**
 
 ---
 Our [Live Map](https://map.ecoredux.net) is a website used to look at the Earth Map in 3D without going into the Minecraft Server.
@@ -14,7 +14,7 @@ The BlueMap as it's called has its own set of features tailored to the Server to
 The Map can still be used for it's 2D function with more detail compared to other maps.
 
 
-# Examples
+# **Examples**
 
 ---
 
