@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (Put Cannon name here)
+title: Normal Cannon
 parent: Types of Cannons
 grand_parent: Movecraft
 nav_order: 3
