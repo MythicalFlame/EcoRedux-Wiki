@@ -41,10 +41,12 @@ All of these being located under the "Markers" tab in Bluemap.
 ![image](https://media.discordapp.net/attachments/1096551392631590956/1142721880499966042/image.png)
 
 **Climates:** Displays the separate Climate regions used on the server. These are most notably used for [Temperature](https://wiki.ecoredux.net/Seasons/Temperature.html) regions as well as [Season](https://wiki.ecoredux.net/Seasons/Climate.html) customization.
+
 ![image](https://media.discordapp.net/attachments/1096551392631590956/1142722542637948938/image.png)
 ![image](https://media.discordapp.net/attachments/1096551392631590956/1142722988018515998/image.png)
 
 **Town Borders:** Displays the [Towny](https://wiki.ecoredux.net/Towny/) Claims of respective nations and towns.
 ![image](https://media.discordapp.net/attachments/1096551392631590956/1142724113165721680/image.png)
 ![image](https://media.discordapp.net/attachments/1096551392631590956/1142723274208464966/image.png)
+
 
