@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Cannon Types
-parent: Movecraft
+title: (Put Cannon name here)
+parent: Types of Cannons
+grand_parent: Movecraft
 nav_order: 3
 nav_exclude: true
 ---
