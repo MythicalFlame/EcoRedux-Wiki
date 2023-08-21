@@ -14,6 +14,14 @@ The temperature is shown in a display bar above your hotbar. By default, it show
 ---
 
 ## Modifiers
+### Climate
+The climate of your region is one of the most important modifiers of your temperature. 
+
+If you are in the climates Arctic/Antarctic, Sub-Arctic/Sub-Antarctic, or Equator, your temperature is constant and is not affected by the below modifiers.\
+If you are in any other climate, you instead get a climate temperature modifier that can stack with the below modifiers.
+
+Please see [here](Climate.html) for more information.
+
 ### Seasons
 The world has a randomly generated base temperature (changed each day) based on the season.
 All modifiers are applied onto this base temperature.
