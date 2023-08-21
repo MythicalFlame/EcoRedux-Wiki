@@ -48,5 +48,6 @@ All of these being located under the "Markers" tab in Bluemap.
 **Town Borders:** Displays the [Towny](https://wiki.ecoredux.net/Towny/) Claims of respective nations and towns.
 ![image](https://media.discordapp.net/attachments/1096551392631590956/1142724113165721680/image.png)
 ![image](https://media.discordapp.net/attachments/1096551392631590956/1142723274208464966/image.png)
+---
 
-
+These graphics settings are located within this button 

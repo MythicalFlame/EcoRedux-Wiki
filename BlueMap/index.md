@@ -11,7 +11,7 @@ Our [Live Map](https://map.ecoredux.net) is a website used to look at the Earth 
 
 The BlueMap as it's called has its own set of features tailored to the Server to bring the best out of the plugin.
 
-The Map can still be used for it's 2D function with more detail compared to other maps.
+The Map can still be used for its 2D function with more detail compared to other maps.
 
 
 # **Examples**
