@@ -30,6 +30,8 @@ You must also ensure that your craft is only made up of the allotted [Allowed Bl
  - You must also ensure that all blocks apart of your craft, are not connected to land, or connected diagonally.
    
      - (These will break the mobility function of your craft, or simply not be counted as part of your craft.)
+
+---
   
 **How do I Move my Craft?**
 
@@ -39,29 +41,29 @@ You must also ensure that your craft is only made up of the allotted [Allowed Bl
       
         - Place a sign with the name of the craft class you are using.
           
-        - *Or* use the command: ` /pilot [craftname] `
+        - *Or* use the command: `/pilot [craftname]`
           
 - To Move your Craft automatically you can either:
 
-  - Place a sign with the text: ` Cruise: OFF `
+  - Place a sign with the text: `Cruise: OFF`
 
-  - *Or* use the command ` /cruise [direction] `
+  - *Or* use the command `/cruise [direction]`
 
 - To Move your Craft more precisley you can:
 
-    - Use a ` Compass ` and Right-Click in the direction you wish to move.
+    - Use a `Compass` and Right-Click in the direction you wish to move.
       
         - This is useful when porting or maneuvering around tight channels.
 
   - To Rotate your Craft you can either:
  
-      - Place a sign with the text: ` helm ` and right and left-click to move its respective directions.
+      - Place a sign with the text: `helm` and right and left-click to move its respective directions.
    
-      - *Or* use the command: ` /rotate [left/right] `
+      - *Or* use the command: `/rotate [left/right]`
    
   - To Protect your ship, you cam either:
 
-      - Place a sign with the text: ` Pilot: ` on the first line, and your username on the second.
+      - Place a sign with the text: `Pilot:` on the first line, and your username on the second.
    
       - *Or* Connect your craft to land, via blocks.
 
