@@ -17,15 +17,15 @@ nav_order: 2
 
 ---
 
- -[Skiff](https://wiki.ecoredux.net/Movecraft/CraftTypes/Skiff.html)
+ - [**Skiff**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Skiff.html)
 
- -[Clipper](https://wiki.ecoredux.net/Movecraft/CraftTypes/Clipper.html)
+ - [**Clipper**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Clipper.html)
 
- -[Caravel](https://wiki.ecoredux.net/Movecraft/CraftTypes/Caravel.html)
+ - [**Caravel**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Caravel.html)
 
- -[Galleon](https://wiki.ecoredux.net/Movecraft/CraftTypes/Galleon.html)
+ - [**Galleon**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Galleon.html)
 
- -[Brig](https://wiki.ecoredux.net/Movecraft/CraftTypes/Brig.html)
+ - [**Brig**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Brig.html)
 
  ---
 
@@ -33,4 +33,4 @@ nav_order: 2
 
  ---
 
-  -[Submersible](https://wiki.ecoredux.net/Movecraft/CraftTypes/Submersible.html)
+  - [**Submersible**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Submersible.html)
