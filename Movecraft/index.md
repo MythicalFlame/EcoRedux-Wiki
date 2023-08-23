@@ -69,5 +69,5 @@ You must also ensure that your craft is only made up of the allotted [**Allowed 
 
 ---
 
-** More information on signs and commands can be found in our [Sign Types](https://wiki.ecoredux.net/Movecraft/SignTypes.html) Wiki Page.**
+**More information on signs and commands can be found in our [Sign Types](https://wiki.ecoredux.net/Movecraft/SignTypes.html) Wiki Page.**
           
