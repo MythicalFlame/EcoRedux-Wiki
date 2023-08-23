@@ -11,31 +11,31 @@ nav_exclude: true
 
 ---
 
-![banner](https://www.minecraft.net/content/dam/archive/21d5dbbef187a17a5d55591a12841e94-Header.jpg)
+![banner](https://static.planetminecraft.com/files/resource_media/screenshot/1507/2015-02-14_1818048643464_lrg.jpg)
 
 ---
 
-The Brig is the largest, basic craft type a player can construct.
+The Submersible, is a small, special craft type with decent speed, with the ability of functioning underwater.
 
 **Craft Specifications:**
 
-- Speed: 4 m/s
+- Speed: 12 m/s
   
-- Cruising Speed: 40 m/s
+- Cruising Speed: 14 m/s
 
 ---
 
-- Minimum Size of  `4050 ` Blocks.
+- Minimum Size of  `10 ` Blocks.
   
-- Maximum Size of  `7500 ` Blocks.
+- Maximum Size of  `1150 ` Blocks.
 
 ---
 
 - Percentage Specifications:
   
-  - `8%  Wood `
+  - `20%  Concrete `
     
-  - `8% Wool `
+  - `1% Redstone Block `
     
 ---
 
@@ -44,9 +44,9 @@ The Brig is the largest, basic craft type a player can construct.
 To Pilot, you are able to perform two separate actions.
 - *You May Either:*
   
-    - Perform the command,  `/pilot Brig `.
+    - Perform the command,  `/pilot Submersible `.
       
-    - Place, and right click a sign containing the text,  `Brig `.
+    - Place, and right click a sign containing the text,  `Submersible`.
 
 --- 
 
