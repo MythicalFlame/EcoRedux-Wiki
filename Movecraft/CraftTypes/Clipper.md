@@ -15,7 +15,7 @@ nav_exclude: true
 
 ---
 
-The Caravel is the second smallest, basic craft type a player can construct.
+The Clipper is the second smallest, basic craft type a player can construct.
 
 **Craft Specifications:**
 
