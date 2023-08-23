@@ -7,6 +7,8 @@ nav_order: 8
 
 # **Movecraft** #
 
+![banner](https://static.planetminecraft.com/files/image/minecraft/project/2022/047/16240339_xl.webp)
+
 ---
 
 **Movecraft** is a server plugin that gives players the ability to create their own custom vehicles, those ranging from ships, to planes, etc.
