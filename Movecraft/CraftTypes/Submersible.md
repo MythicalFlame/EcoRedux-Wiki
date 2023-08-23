@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brig
+title: Submersible
 parent: Types of Crafts
 grand_parent: Movecraft
 nav_order: 1
