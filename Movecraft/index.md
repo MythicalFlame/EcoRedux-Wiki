@@ -7,6 +7,8 @@ nav_order: 8
 
 # **Movecraft** #
 
+---
+
 ![banner](https://static.planetminecraft.com/files/image/minecraft/project/2022/047/16240339_xl.webp)
 
 ---
