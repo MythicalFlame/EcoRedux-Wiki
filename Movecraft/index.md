@@ -11,11 +11,11 @@ nav_order: 8
 
 **Movecraft** is a server plugin that gives players the ability to create their own custom vehicles, those ranging from ships, to planes, etc.
 
-**Movecraft** categorizes these vehicles into custom [Craft Types](https://wiki.ecoredux.net/Movecraft/CraftTypes.html) , each with their own unique specifications and abilities. These abilities ranging from speed, to descending to greater depths, and specifications in size.
+**Movecraft** categorizes these vehicles into custom [**Craft Types**](https://wiki.ecoredux.net/Movecraft/CraftTypes.html) , each with their own unique specifications and abilities. These abilities ranging from speed, to descending to greater depths, and specifications in size.
 
 Each player's created craft must fit the specifications of the Craft Type it is in. 
 
-You must also ensure that your craft is only made up of the allotted [Allowed Blocks](https://wiki.ecoredux.net/Movecraft/Tutorial.html) available.
+You must also ensure that your craft is only made up of the allotted [**Allowed Blocks**](https://wiki.ecoredux.net/Movecraft/Tutorial.html) available.
 
 ---
 
@@ -69,5 +69,5 @@ You must also ensure that your craft is only made up of the allotted [Allowed Bl
 
 ---
 
-** More information on signs and commands can be found in our [Sign Types](https://wiki.ecoredux.net/Movecraft/SignTypes.html) Wiki Page.
+** More information on signs and commands can be found in our [Sign Types](https://wiki.ecoredux.net/Movecraft/SignTypes.html) Wiki Page.**
           
