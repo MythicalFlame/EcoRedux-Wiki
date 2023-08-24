@@ -15,7 +15,7 @@ nav_order: 3
 
  - **Craft Sign**
     
-    - ` Name of Craft Type`
+    - `Name of Craft Type`
 
  - This Sign allows players to pilot their craft, by right-clicking the sign with an empty hand.
 
