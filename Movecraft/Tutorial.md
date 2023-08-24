@@ -15,10 +15,6 @@ nav_order: 1
 
 ---
 
-<details open>
-<summary> General Allowed Blocks </summary>
-<br>
-
  - Wood
    
     - Planks, Logs, Doors, etc.
@@ -128,7 +124,5 @@ nav_order: 1
   - All Forms of Blackstone
     
   - Chains
-
-</details>
 
 ---
