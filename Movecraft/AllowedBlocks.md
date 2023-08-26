@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AllowBlocks
+title: Allowed Blocks
 parent: Movecraft
 nav_order: 1
 ---
