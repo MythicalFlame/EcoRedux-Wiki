@@ -22,7 +22,7 @@ nav_order: 1
     - `5 Gunpowder`
 
  - Other Info: -- Durability: `250` -- Damage: `10`
- - 
+   
 ---
 
   - **Musket**
