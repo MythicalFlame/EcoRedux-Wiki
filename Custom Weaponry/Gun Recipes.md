@@ -21,6 +21,8 @@ nav_order: 1
    
     - `5 Gunpowder`
 
+ - Other Info: -- Durability: `250` -- Damage: `10`
+ - 
 ---
 
   - **Musket**
@@ -34,5 +36,6 @@ nav_order: 1
           - `8 Oak Logs`
        
           - `12 Gunpowder`
-
+          - 
+ - Other Info: -- Durability: `325` -- Damage: `18`
 ---
