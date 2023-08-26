@@ -35,4 +35,4 @@ Guns are available to be crafted ingame out of a variety of materials. These gun
 
 - Ammunition for Guns are auto-loaded if in the inventory.
 
-- Guns also use a set of durability before breaking. This can be viewed in their retrospective recipe page.
+- Guns also use a set of durability before breaking. This can be viewed in their respective recipe page.
