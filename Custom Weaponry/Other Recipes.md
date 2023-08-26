@@ -13,6 +13,8 @@ nav_order: 2
 
  - **Musket Ball**
 
+    - (Used by Flintlock and Musket)
+
      - `4 Iron Ingots`
   
      - `4 Gunpowder`
