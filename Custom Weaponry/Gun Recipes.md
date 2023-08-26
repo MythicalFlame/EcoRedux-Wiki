@@ -36,6 +36,7 @@ nav_order: 1
           - `8 Oak Logs`
        
           - `12 Gunpowder`
-          - 
+            
  - Other Info: -- Durability: `325` -- Damage: `18`
+   
 ---
