@@ -22,7 +22,7 @@ This Wiki is created and maintained by EcoRedux Staff and is the Official Wiki f
 
 | [Quick Start Guide](placeholder) |
 [FAQ](placeholder) |
-[Towny Poral](Towny) |
+[Towny Portal](Towny) |
 [Movecraft Portal](Movecraft) |
 
 ---
