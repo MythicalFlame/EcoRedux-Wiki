@@ -24,7 +24,7 @@ First of all, get a direct link to the image. If you are on discord, a simple wa
 
 Next, you will have two options for the image. You can either create the image as separate maps or as a combined map. Seperate maps must be individually placed in their item frames, while combined maps just need a click in one item frame for it to display the whole image.
 
-To create an image as separate maps, do `/imageframe create (name) (url) (width) (height)`
+To create an image as separate maps, do `/imageframe create (name) (url) (width) (height)`\
 To create an image as a combined map, do `/imageframe create (name) (url) (width) (height) combined`
 
 ### Cloning images
