@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Musket
-parent: Custom Weaponry
+title: Blunderbuss
+parent: GunTypes
 nav_order: 1
 ---
 
