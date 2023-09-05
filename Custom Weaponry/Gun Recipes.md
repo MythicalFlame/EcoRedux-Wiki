@@ -11,9 +11,9 @@ nav_order: 1
 
 > **18th Century Weaponry**
 
-   - [**Flintlock**](GunTypes/Flintlock.md)
+   - [**Flintlock**](GunTypes/Flintlock.html)
 
-   - [**Musket**](GunTypes/Musket.md)
+   - [**Musket**](GunTypes/Musket.html)
 
-   - [**Blunderbuss**](GunTypes/Blunderbuss.md)
+   - [**Blunderbuss**](GunTypes/Blunderbuss.html)
 
