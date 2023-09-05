@@ -9,5 +9,5 @@ nav_order: 1
 
  - 17th Century Weapons
 
-**- [Flintlock](Custom Weaponry/GunTypes/Blunderbuss.md)**
+- [Flintlock](https://github.com/EcoRedux/EcoRedux-Wiki/blob/49b12dcd5ae87aff9a3c594dad0d1889194a78d0/Custom%20Weaponry/GunTypes/Flintlock.md)
 
