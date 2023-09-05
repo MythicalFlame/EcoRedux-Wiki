@@ -17,7 +17,7 @@ Flintlocks are crafted in 3 seperate parts. These are:
 
  - Flintlock Stock
 
- - Musket barrel
+ - Musket Barrel
 
  - Musket Hammer
 
