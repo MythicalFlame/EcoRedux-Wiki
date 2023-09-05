@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Musket
-parent: Custom Weaponry
+parent: GunTypes
 nav_order: 1
 ---
 
