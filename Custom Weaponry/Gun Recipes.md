@@ -15,5 +15,5 @@ nav_order: 1
 
    - [**Musket**](Ecoredux-Wiki/Custom_Weaponry/GunTypes/Musket.md)
 
-   - [**Blunderbuss**](Ecoredux-Wiki/Custom_Weaponry/GunTypes/Blunderbuss.md)
+   - [**Blunderbuss**](Custom_Weaponry/GunTypes/Blunderbuss.md)
 
