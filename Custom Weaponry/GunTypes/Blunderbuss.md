@@ -13,7 +13,7 @@ nav_order: 1
 
 ---
 
-Blunderbuss are crafted in 3 seperate parts. These are:
+Blunderbusses are crafted in 3 seperate parts. These are:
 
  - Musket Stock
 
