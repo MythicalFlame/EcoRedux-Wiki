@@ -5,7 +5,7 @@ parent: Custom Weaponry
 nav_order: 1
 ---
 
-# **Musket** #
+# **Flintlock** #
 
 ---
 
@@ -13,13 +13,11 @@ nav_order: 1
 
 ---
 
-Muskets are crafted in 4 seperate parts. These are:
+Flintlocks are crafted in 3 seperate parts. These are:
 
- - Musket Stock
+ - Flintlock Stock
 
  - Musket barrel
-
- - Bayonet
 
  - Musket Hammer
 
@@ -27,23 +25,19 @@ Muskets are crafted in 4 seperate parts. These are:
 
 **How to Craft the Musket:**
 
-![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148439937306329200/image.png)
+![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148440041853567006/image.png)
 
 ---
 
 **Individual Recipes:**
 
-![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148369884883984404/image.png)
+![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148370269522641017/image.png)
 
-*A Musket Stock*
+*A Flintlock Stock*
 
 ![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148369985681498202/image.png)
 
 *A Musket Barrel*
-
-![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148370118297014272/image.png)
-
-*A Bayonet*
 
 ![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148370485361520791/image.png)
 
@@ -55,4 +49,4 @@ Muskets are crafted in 4 seperate parts. These are:
 
 ---
 
-Muskets fire [Musket Balls](placeholder).
+Flintlocks fire [Musket Balls](placeholder).
