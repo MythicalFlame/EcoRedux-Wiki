@@ -7,36 +7,7 @@ nav_order: 1
 
 > # **Gun Recipes:**
 
----
+ - 17th Century Weapons
 
- - **Flintlock Pistol**
+**- [Flintlock](Custom Weaponry/GunTypes/Blunderbuss.md)**
 
-  - Items Required:
-
-    - `10 Iron Ingot`
-   
-    - `5 Gold Nuggets`
-   
-    - `5 Oak Logs`
-   
-    - `5 Gunpowder`
-
- - Other Info: -- Durability: `250` -- Damage: `10`
-   
----
-
-  - **Musket**
-
-      - Items Required:
-   
-          - `15 Iron Ingot `
-       
-          - `25 Gold Nuggets`
-       
-          - `8 Oak Logs`
-       
-          - `12 Gunpowder`
-            
- - Other Info: -- Durability: `325` -- Damage: `18`
-   
----
