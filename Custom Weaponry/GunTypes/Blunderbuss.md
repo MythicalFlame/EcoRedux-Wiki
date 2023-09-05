@@ -25,19 +25,19 @@ Blunderbuss are crafted in 3 seperate parts. These are:
 
 **How to Craft the Blunderbuss:**
 
-![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148440041853567006/image.png)
+![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148447504350842931/image.png)
 
 ---
 
 **Individual Recipes:**
 
-![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148370269522641017/image.png)
+![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148369884883984404/image.png)
 
-*A Flintlock Stock*
+*A Musket Stock*
 
-![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148369985681498202/image.png)
+![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148370381695102976/image.png)
 
-*A Musket Barrel*
+*A Blunderbuss Barrel*
 
 ![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148370485361520791/image.png)
 
@@ -49,4 +49,4 @@ Blunderbuss are crafted in 3 seperate parts. These are:
 
 ---
 
-Flintlocks fire [Musket Balls](placeholder).
+Blunderbusses fire [Musket Balls](placeholder).
