@@ -17,7 +17,7 @@ Muskets are crafted in 4 seperate parts. These are:
 
  - Musket Stock
 
- - Musket barrel
+ - Musket Barrel
 
  - Bayonet
 
