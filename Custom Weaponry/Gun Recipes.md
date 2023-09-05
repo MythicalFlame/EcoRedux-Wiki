@@ -11,9 +11,9 @@ nav_order: 1
 
 > **18th Century Weaponry**
 
-   - [**Flintlock**](Ecoredux-Wiki/Custom_Weaponry/GunTypes/Flintlock.md)
+   - [**Flintlock**](GunTypes/Flintlock.md)
 
-   - [**Musket**](Ecoredux-Wiki/Custom_Weaponry/GunTypes/Musket.md)
+   - [**Musket**](GunTypes/Musket.md)
 
-   - [**Blunderbuss**](Custom_Weaponry/GunTypes/Blunderbuss.md)
+   - [**Blunderbuss**](GunTypes/Blunderbuss.md)
 
