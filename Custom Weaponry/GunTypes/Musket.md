@@ -33,7 +33,7 @@ Muskets are crafted in 4 seperate parts. These are:
 
 **Individual Recipes:**
 
-![banner](https://discord.com/channels/1107121933033685074/1107121933797031958/1148369885127262268)
+![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1148369884883984404/image.png)
 
 *A Musket Stock*
 
