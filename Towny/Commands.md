@@ -64,6 +64,8 @@ nav_order: 2
 
    Displays your town's current residents.
 
+</details>
+
 ---
 
 <details>
