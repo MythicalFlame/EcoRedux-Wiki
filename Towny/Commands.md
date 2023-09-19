@@ -9,7 +9,7 @@ nav_order: 2
 <summary> Towny Starter Commands</summary>
 
 <summary>/t new [Name]</summary>
-Creates a New Town.
++ Creates a New Town.
 
 <summary>/t invite [player]</summary>
 Invites your selected player into your town.
