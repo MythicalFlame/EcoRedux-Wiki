@@ -9,7 +9,7 @@ nav_order: 2
 
 ---
 
- - [**Musketball**](GunTypes/musketball.html)
+ - [**Musketball**](https://wiki.ecoredux.net/Custom%20Weaponry/GunTypes/Musketball.html)
 
 ---
 
