@@ -9,7 +9,7 @@ nav_order: 1
 
 ---
 
-![banner](placeholder)
+![banner](https://media.discordapp.net/attachments/1107121933797031958/1153719960137367552/image.png?width=1276&height=671)
 
 ---
 
@@ -55,4 +55,4 @@ Muskets are crafted in 4 seperate parts. These are:
 
 ---
 
-Muskets fire [Musket Balls](placeholder).
+Muskets fire [Musket Balls](Musketball.html).
