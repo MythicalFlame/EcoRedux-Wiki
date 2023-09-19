@@ -10,7 +10,7 @@ nav_order: 2
 
 <summary>/t new [Name]</summary>
 
-+<summary>Creates a New Town.</summary>
+   Creates a New Town.
 
 <summary>/t invite [player]</summary>
 
