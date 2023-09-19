@@ -9,12 +9,6 @@ nav_order: 2
 
 ---
 
-# **Ammo Recipes:**
+ - [**Lead Ingot**](GunTypes/leadingot.html)
 
- - **Musket Ball**
-
-    - (Used by Flintlock and Musket)
-
-     - `4 Iron Ingots`
-  
-     - `4 Gunpowder`
+---
