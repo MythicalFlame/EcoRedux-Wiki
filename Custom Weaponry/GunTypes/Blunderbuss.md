@@ -9,7 +9,7 @@ nav_order: 1
 
 ---
 
-![banner](https://media.discordapp.net/attachments/1107121933797031958/1153720471322378260/image.png?width=1276&height=671)
+![banner](https://media.discordapp.net/attachments/1107121933797031958/1153725323997888524/image.png?width=1276&height=671)
 
 ---
 
