@@ -10,55 +10,50 @@ nav_order: 2
 
 <summary>/t new [Name]</summary>
 
-`Creates a New Town.`
+Creates a New Town.
 
 <summary>/t invite [player]</summary>
 
-`Invites your selected player into your town.`
+Invites your selected player into your town.
 
 <summary>/t kick [player]</summary>
 
-`Kicks your selected player from your town.`
+Kicks your selected player from your town.
 
 <summary>/t spawn</summary>
 
-`Teleports you to your town's spawn.`
+Teleports you to your town's spawn.
 
 <summary>/t [Town Name] </summary>
 
-`Displays General Town Information.`
+Displays General Town Information.
 
 <summary>/t list</summary>
 
-`Lists all current towns ingame.`
+Lists all current towns ingame.
 
 <summary>/t claim</summary>
 
-`Automatically claims the current chunk you are in.`
+Automatically claims the current chunk you are in.
 
 <summary>/t unclaim</summary>
 
-`Automatically unclaims the current chunk you are in.`
+Automatically unclaims the current chunk you are in.
 
-- **/t deposit [integer]**
+<summary>/t deposit [amount]</summary>
+Deposits a set amount of money into your town bank.
 
-  - Deposits a set amount of your money into your town bank.
+<summary>/t withdraw [anmount]</summary>
+Withdraws a set amount of money from your town bank.
 
-- **/t withdraw [integer]**
+<summary>/t buy bonus [amount]</summary>
+Purchases your town a set amount of bonus townblocks.
 
-  - Withdraws a set amount of money from your town bank.
+<summary>/t delete</summary>
+Deletes your town.
 
-- **/t buy bonus [amount]**
-
-  - Purchases your town a set amount of extra townblocks.
-
-- **/t delete [Town Name]**
-
-  - Deletes the Town you are currently in.
-
-- **/t reslist**
-
-  - Displays your town's current residents.
+<summary>/t reslist</summary>
+Displays your town's current residents.
 
 ---
 
