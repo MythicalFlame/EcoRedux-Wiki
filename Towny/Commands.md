@@ -5,7 +5,7 @@ parent: Towny
 nav_order: 2
 ---
 
-> # Towny Commands#
+> # Towny Commands
 
 ---
 
