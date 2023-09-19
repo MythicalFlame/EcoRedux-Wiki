@@ -27,6 +27,12 @@ nav_order: 2
 
  - [**Brig**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Brig.html)
 
+ - [**Sloop**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Sloop.html)
+
+ - [**Schooner**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Schooner.html)
+
+ - [**Barque**](https://wiki.ecoredux.net/Movecraft/CraftTypes/Barque.html)
+
  ---
 
  **Specialty Craft Types:**
