@@ -20,7 +20,7 @@ nav_order: 2
 -
 
 <details>
-<summary>**Towny Starter Commands</summary>
+<summary> **Towny Starter Commands** </summary>
 <br>
  - **/t new [name]**
 
@@ -73,9 +73,12 @@ nav_order: 2
  - **/t reslist**
 
   - Displays your town's current residents.
+</details>
+
+---
 
 <details>
-<summary>**Towny Nation Commands**</summary>
+<summary> **Towny Nation Commands** </summary>
 <br>
  - **/n new [Name]
 
@@ -124,7 +127,4 @@ nav_order: 2
  - **/n allylist**
 
    - Display's your nation's ally list.
-</details>
-
- - **?
 </details>
