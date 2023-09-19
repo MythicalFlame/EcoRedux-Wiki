@@ -12,6 +12,8 @@ nav_order: 2
 
 Creates a New Town.
 
+>
+
 <summary>/t invite [player]</summary>
 
 Invites your selected player into your town.
