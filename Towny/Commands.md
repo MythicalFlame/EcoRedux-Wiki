@@ -119,3 +119,16 @@ Removes your selected nation from your list of allies.
 
 Displays the current allies of your selected nation.
 
+<summary>/n enemy add [Nation]</summary>
+
+Adds a nation to your enemy list.
+
+<summary>/n enemy remove [Nation]</summary>
+
+Removes a nation from your enemy list.
+
+</details>
+
+---
+
+
