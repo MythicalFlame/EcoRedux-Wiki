@@ -17,6 +17,6 @@ nav_order: 2
 
 ---
 
- - [**Lead Ingot**](GunTypes/Leadingot.html)
+ - [**Lead Ingot**](https://wiki.ecoredux.net/Custom%20Weaponry/GunTypes/Leadingot.html)
 
 ---
