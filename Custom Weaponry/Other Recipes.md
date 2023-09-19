@@ -5,6 +5,12 @@ parent: Custom Weaponry
 nav_order: 2
 ---
 
+> # **Ammunition Recipes:**
+
+---
+
+ - [**Musketball**](GunTypes/musketball.html)
+
 > # **Extended Recipes:**
 
 ---
