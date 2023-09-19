@@ -7,7 +7,6 @@ nav_order: 2
 
 <details>
 <summary> Towny Starter Commands</summary>
-<details>
 
 <summary>/t new [Name]</summary>
 Creates a New Town.
