@@ -7,61 +7,62 @@ nav_order: 2
 
 <details>
 <summary> 
-**Towny Starter Commands** 
+Towny Starter Commands
 </summary>
 <br>
 
- - **/t new [name]**
+- **/t new [name]**
 
   - Creates a New Town 
 
- - **/t invite [username]
+- **/t invite [username]**
 
   - Invites your selected player into your town.
 
- - **/t kick [username]
+- **/t kick [username]
 
    - Kicks your selected player from your town.
 
- - **/t spawn**
+- **/t spawn**
 
   - Teleports you to your town's spawnpoint.
 
- - **/t [Town Name]**
+- **/t [Town Name]**
 
   - Displays general town information.
 
- - **/t list**
+- **/t list**
 
   - Lists all towns currently ingame.
 
- - **/t claim**
+- **/t claim**
 
   - Automatically Claims the Chunk you are currently in.
 
- - **/t unclaim**
+- **/t unclaim**
 
   - Automatically Unclaims the Chunk you are currently in.
 
- - **/t deposit [integer]**
+- **/t deposit [integer]**
 
   - Deposits a set amount of your money into your town bank.
 
- - **/t withdraw [interger]**
+- **/t withdraw [interger]**
 
   - Withdraws a set amount of money from your town bank.
 
- - **/t buy bonus [amount]**
+- **/t buy bonus [amount]**
 
   - Purchases your town a set amount of extra townblocks.
 
- - **/t delete [Town Name] 
+- **/t delete [Town Name] 
 
   - Deletes the Town you are currently in.
 
- - **/t reslist**
+- **/t reslist**
 
   - Displays your town's current residents.
+
 </details>
 
 ---
