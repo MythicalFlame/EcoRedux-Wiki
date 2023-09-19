@@ -8,9 +8,7 @@ nav_order: 2
 <details>
 <summary> Towny Starter Commands</summary>
 
-<details>
-
-+ <summary>/t new [Name]</summary>
+<summary>/t new [Name]</summary>
 Creates a New Town.
 
 <summary>/t invite [player]</summary>
