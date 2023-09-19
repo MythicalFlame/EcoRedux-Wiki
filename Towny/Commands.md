@@ -9,7 +9,7 @@ nav_order: 2
 <summary> 
 Towny Starter Commands
 </summary>
-<br>
++<br>
 
 - **/t new [name]**
 
@@ -68,8 +68,8 @@ Towny Starter Commands
 ---
 
 <details>
-<summary> **Towny Nation Commands** </summary>
-<br>
+<summary> Towny Nation Commands </summary>
++<br>
 
 - **/n new [Name]**
 
