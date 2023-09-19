@@ -71,21 +71,21 @@ Towny Starter Commands
 <summary> **Towny Nation Commands** </summary>
 <br>
 
-- **/n new [Name]
+- **/n new [Name]**
 
-  - Automatically creates a new nation with your set name, sets your town as the capital.
+   - Automatically creates a new nation with your set name, sets your town as the capital.
 
 - **/n list**
 
-  - Displays all current nations ingame.
+   - Displays all current nations ingame.
 
 - **/n online**
 
-  - Displays the current residents online in your nation.
+   - Displays the current residents online in your nation.
 
 - **/n**
 
-  - Displays basic info for your nation.
+   - Displays basic info for your nation.
 
 - **/n [Name]**
 
