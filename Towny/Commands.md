@@ -12,19 +12,14 @@ nav_order: 2
 <summary>/t new [Name]</summary>
 Creates a New Town.
 
-
 <summary>/t invite [player]</summary>
 Invites your selected player into your town.
-
 
 <summary>/t kick [player]</summary>
 Kicks your selected player from your town.
 
-
 <summary>/t spawn</summary>
 Teleports you to your town's spawn.
-
-
 
 - **/t [Town Name]**
 
