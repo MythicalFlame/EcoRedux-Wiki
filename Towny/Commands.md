@@ -56,8 +56,6 @@ Teleports you to your town's spawn.
 
   - Displays your town's current residents.
 
-</details>
-
 ---
 
 <details>
