@@ -6,10 +6,9 @@ nav_order: 2
 ---
 
 <details>
-<summary> 
-Towny Starter Commands
-</summary>
-+<br>
+<summary> Towny Starter Commands</summary>
+
++ <details></details>
 
 - **/t new [name]**
 
