@@ -32,9 +32,9 @@ The Sloop is a quick, maneuverable craft type.
 ---
 
 - Percentage Specifications:
-  - `8%  Wood `
+  - `25%  Wood `
     
-  - `8% Wool `
+  - `10% Wool `
     
 ---
 
