@@ -21,7 +21,7 @@ nav_order: 1
 
  - **/t ?**
 
-  - Displays Available Help Commands.
+   - Displays Available Help Commands.
 
  - **/t list**
 
