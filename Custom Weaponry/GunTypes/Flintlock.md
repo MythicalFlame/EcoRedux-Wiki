@@ -49,4 +49,4 @@ Flintlocks are crafted in 3 seperate parts. These are:
 
 ---
 
-Flintlocks fire [Musket Balls](placeholder).
+Flintlocks fire [Musket Balls](Musketball.html).
