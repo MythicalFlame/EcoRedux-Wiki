@@ -19,7 +19,7 @@ Towny Starter Commands
 
   - Invites your selected player into your town.
 
-- **/t kick [username]
+- **/t kick [username]**
 
    - Kicks your selected player from your town.
 
@@ -47,7 +47,7 @@ Towny Starter Commands
 
   - Deposits a set amount of your money into your town bank.
 
-- **/t withdraw [interger]**
+- **/t withdraw [integer]**
 
   - Withdraws a set amount of money from your town bank.
 
@@ -55,7 +55,7 @@ Towny Starter Commands
 
   - Purchases your town a set amount of extra townblocks.
 
-- **/t delete [Town Name] 
+- **/t delete [Town Name]**
 
   - Deletes the Town you are currently in.
 
@@ -70,51 +70,53 @@ Towny Starter Commands
 <details>
 <summary> **Towny Nation Commands** </summary>
 <br>
- - **/n new [Name]
+
+- **/n new [Name]
 
   - Automatically creates a new nation with your set name, sets your town as the capital.
 
- - **/n list**
+- **/n list**
 
   - Displays all current nations ingame.
 
- - **/n online**
+- **/n online**
 
   - Displays the current residents online in your nation.
 
- - **/n**
+- **/n**
 
   - Displays basic info for your nation.
 
- - **/n [Name]**
+- **/n [Name]**
 
    - Displays information for the selected nation.
 
- - **/n invite [Town Name]**
+- **/n invite [Town Name]**
 
    - Sends your selected town an invite to join your nation.
 
- - **/n kick [Town Name]**
+- **/n kick [Town Name]**
 
    - Kicks the selected town from your nation.
 
- - **/n deposit [interger]**
+- **/n deposit [interger]**
 
    - Deposits a set amount of money into your nation's bank.
 
- - **/n withdraw [integer]**
+- **/n withdraw [integer]**
 
    - Withdraws a set amount of money from your nation's bank.
 
- - **/n ally add [Nation]**
+- **/n ally add [Nation]**
 
    - Sends your selected nation an allyship request.
 
- - **/n ally remove [Nation]**
+- **/n ally remove [Nation]**
 
    - Removes the selected nation from your alliances.
 
- - **/n allylist**
+- **/n allylist**
 
    - Display's your nation's ally list.
+
 </details>
