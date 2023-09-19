@@ -9,7 +9,7 @@ nav_order: 1
 
 ---
 
-![banner](placeholder)
+![banner](https://cdn.discordapp.com/attachments/1107121933797031958/1153725323997888524/image.png)
 
 ---
 
@@ -49,4 +49,4 @@ Blunderbusses are crafted in 3 seperate parts. These are:
 
 ---
 
-Blunderbusses fire [Musket Balls](placeholder).
+Blunderbusses fire [Musket Balls](Musketball.html).
