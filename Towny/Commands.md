@@ -87,8 +87,7 @@ Displays your town's current residents.
 
 <details>
 
-<summary> Towny Nation Commands </summary>
-+<br>
+
 
 - **/n new [Name]**
 
