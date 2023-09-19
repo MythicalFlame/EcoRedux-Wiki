@@ -9,10 +9,6 @@ nav_order: 1
 
 ---
 
-![banner](placeholder)
-
----
-
 Lead Ingots are Crafted from `2` of the following:
 
  - Iron Ingot
