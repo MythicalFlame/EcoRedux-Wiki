@@ -17,6 +17,6 @@ nav_order: 2
 
 ---
 
- - [**Lead Ingot**](GunTypes/leadingot.html)
+ - [**Lead Ingot**](GunTypes/Leadingot.html)
 
 ---
