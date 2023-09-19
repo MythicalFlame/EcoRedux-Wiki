@@ -5,6 +5,10 @@ parent: Towny
 nav_order: 2
 ---
 
+# **General Towny Commands**
+
+---
+
 <details>
 <summary> Towny Starter Commands</summary>
 
@@ -60,54 +64,56 @@ nav_order: 2
 
    Displays your town's current residents.
 
+---
 
+<details>
+<summary>Nation Commands</summary>
 
-- **/n new [Name]**
+---
 
-   - Automatically creates a new nation with your set name, sets your town as the capital.
+<details>
+<summary>/n new [Name]</summary>
 
-- **/n list**
+Automatically creates a new nation, with your town as the capital city.
 
-   - Displays all current nations ingame.
+<summary>/n list</summary>
 
-- **/n online**
+Displays all current ingame nations.
 
-   - Displays the current residents online in your nation.
+<summary>/n online</summary>
 
-- **/n**
+Displays all current online residents in your nation.
 
-   - Displays basic info for your nation.
+<summary>/n</summary>
 
-- **/n [Name]**
+Displays basic information for your nation.
 
-   - Displays information for the selected nation.
+<summary>/n [Name]</summary>
 
-- **/n invite [Town Name]**
+Displays basic information for your selected nation.
 
-   - Sends your selected town an invite to join your nation.
+<summary>/n invite [Town Name]</summary>
 
-- **/n kick [Town Name]**
+Sends your chosen town an invite to join your nation.
 
-   - Kicks the selected town from your nation.
+<summary>/n kick</summary>
 
-- **/n deposit [interger]**
+Kicks your selected town from your nation.
 
-   - Deposits a set amount of money into your nation's bank.
+<summary>/n deposit [amount]</summary>
 
-- **/n withdraw [integer]**
+Deposits a set amount of money into your nation's bank.
 
-   - Withdraws a set amount of money from your nation's bank.
+<summary>/n withdraw [amount]</summary>
+Withdraws a set amount of money from your nation's bank.
 
-- **/n ally add [Nation]**
+<summary>/n ally add [Nation]</summary>
 
-   - Sends your selected nation an allyship request.
+Sends your chosen nation a request to become allies.
 
-- **/n ally remove [Nation]**
+<summary>/n ally remove [Nation]</summary>
 
-   - Removes the selected nation from your alliances.
+Removes your selected nation from your list of allies.
 
-- **/n allylist**
+<summary>/n allylist [Nation]</summary>
 
-   - Display's your nation's ally list.
-
-</details>
