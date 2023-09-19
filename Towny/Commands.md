@@ -71,10 +71,6 @@ nav_order: 2
 <details>
 <summary>Nation Commands</summary>
 
----
-
-<details>
-
 <summary>/n new [Name]</summary>
 
 Automatically creates a new nation, with your town as the capital city.
