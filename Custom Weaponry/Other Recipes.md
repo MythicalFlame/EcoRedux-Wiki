@@ -11,6 +11,8 @@ nav_order: 2
 
  - [**Musketball**](GunTypes/musketball.html)
 
+---
+
 > # **Extended Recipes:**
 
 ---
