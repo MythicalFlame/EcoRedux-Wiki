@@ -11,7 +11,7 @@ nav_exclude: true
 
 ---
 
-![banner](https://static.planetminecraft.com/files/image/minecraft/project/2021/817/14122357-n_m.jpg)
+![banner](https://i.imgur.com/iZNog.png)
 
 ---
 
