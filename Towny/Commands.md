@@ -104,6 +104,7 @@ Kicks your selected town from your nation.
 Deposits a set amount of money into your nation's bank.
 
 <summary>/n withdraw [amount]</summary>
+
 Withdraws a set amount of money from your nation's bank.
 
 <summary>/n ally add [Nation]</summary>
@@ -115,4 +116,6 @@ Sends your chosen nation a request to become allies.
 Removes your selected nation from your list of allies.
 
 <summary>/n allylist [Nation]</summary>
+
+Displays the current allies of your selected nation.
 
