@@ -7,6 +7,8 @@ nav_order: 1
 
 # Towny Starter Guide #
 
+A full list of commands can be found [Here.](https://wiki.ecoredux.net/Towny/Commands.html)
+
 ---
 
 > **Towny Basic Commands**
