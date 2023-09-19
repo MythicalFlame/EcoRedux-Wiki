@@ -6,8 +6,11 @@ nav_order: 2
 ---
 
 <details>
-<summary> **Towny Starter Commands** </summary>
+<summary> 
+**Towny Starter Commands** 
+</summary>
 <br>
+
  - **/t new [name]**
 
   - Creates a New Town 
