@@ -131,4 +131,81 @@ Removes a nation from your enemy list.
 
 ---
 
+<details>
+<summary>Plot Commands</summary>
+
+<summary>/plot</summary>
+
+Shows plot commands ingame.
+
+<summary>/plot claim</summary>
+
+Resident command to personally claim a plot that is currently for sale.
+
+<summary>/plot fs</summary>
+
+Sets a plot as for sale, *alternativley* you can perform /plot forsale.
+
+<summary>/plot nfs</summary>
+
+Sets a plot as not for sale, *alternativley* you can perform /plot notforsale.
+
+<summary>/plot perm</summary>
+
+Shows the permissions of the plot you are currently standing in.
+
+<summary>/plot clear</summary>
+
+Clears a plot of all it's block id's. Can only be used by a mayor.
+
+<details>
+<summary>Plot Set Commands</summary>
+
+<summary>/plot set reset</summary>
+
+Sets a shop/embassy/arena plot back to a normal plot.
+
+<summary>/plot set shop</summary>
+
+Sets a plot to a shop.
+
+<summary>/plot set embassy</summary>
+
+Sets a plot to an embassy.
+
+<summary>/plot set arena</summary>
+
+Sets a plot to an arena.
+
+<summary>/plot set wilds</summary>
+
+Sets a plot to wilderness.
+
+<summary>/plot set name [Name]</summary>
+
+Sets a custom name for the plot you are currently standing in.
+
+<summary>/plot set perm [on/off]</summary>
+
+Toggles the permission lines in which you are currently standing.
+
+<summary>/plot set perm [resident/outsider/ally] [off]</summary>
+
+Toggles the permissions in the current plot for different player ranks.
+
+<summary>/plot set perm [build/destroy/switch/itemuse] [on/off]</summary>
+
+Toggles the permissions in the current plot.
+
+<summary>/plot set perm reset</summary>
+
+Resets the permissions in the current plot.
+
+</details>
+
+</details>
+
+---
+
+
 
