@@ -207,8 +207,8 @@ Resets the permissions in the current plot.
 
 ---
 
-<summary>Resident Commands</summary>
 <details>
+<summary>Resident Commands</summary>
 
 <summary>/resident [player]</summary>
 
@@ -258,8 +258,8 @@ Resets all currently active modes.
 
 Displays the Tax a player pays.
 
-<summary>Resident Set Commands</summary>
 <details>
+<summary>Resident Set Commands</summary>
 
 <summary>/res set perm [on/off]</summary>
 
