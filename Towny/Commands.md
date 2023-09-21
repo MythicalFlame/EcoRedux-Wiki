@@ -207,5 +207,82 @@ Resets the permissions in the current plot.
 
 ---
 
+<summary>Resident Commands</summary>
+<details>
 
+<summary>/resident [player]</summary>
 
+Display's your selected player's basic resident info.
+
+<summary>/res friend add [player]</summary>
+
+Adds a player to your friend's list ingame.
+
+<summary>/res freind add+ [player]</summary>
+
+Adds an offline player to your friend's list ingame.
+
+<summary>/res friend remove [player]</summary>
+
+Removes a player from your ingame friend's list.
+
+<summary>/res friend remove+ [player]</summary>
+
+Removes a currently offline player from your ingame friend's list.
+
+<summary>/res clearlist</summary>
+
+Clears all friends from your friend's list.
+
+<summary>/res list</summary>
+
+Lists all residents.
+
+<summary>/res toggle map</summary>
+
+Toggles Towny map when moving across town borders.
+
+<summary>/res toggle townclaim</summary>
+
+Toggles automatically claiming whatever chunks you enter.
+
+<summary>/res toggle plotborder</summary>
+
+Toggles a plotborder ingame, shows when you cross different townblocks.
+
+<summary>/res toggle reset</summary>
+
+Resets all currently active modes.
+
+<summary>/res tax</summary>
+
+Displays the Tax a player pays.
+
+<summary>Resident Set Commands</summary>
+<details>
+
+<summary>/res set perm [on/off]</summary>
+
+Edits permission lines on the resident screen.
+
+<summary>/res set perm [friend/ally/outsider] [on/off]</summary>
+
+Turns on and off the resident perms for a player in your town.
+
+<summary>/res set perm [build/destroy/switch/itemuse] [on/off]</summary>
+
+Sets permissions for a resident in your town.
+
+<summary>/res set perm [friend/ally/outsider] [build/destroy/switch/itemuse] [on/off]</summary>
+
+Sets permissions in your town for a certain type of resident.
+
+<summary>/res set perm reset</summary>
+
+Resets current permission settings.
+
+</details>
+
+</details>
+
+---
