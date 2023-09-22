@@ -11,7 +11,7 @@ nav_order: 1
 
 ### We at [Ecoredux](https://discord.com/invite/ecoredux) utilize Towny as our form of creating Towns, Nations, and so on.
 
-##Introduction
+## Introduction
 
 ---
 
