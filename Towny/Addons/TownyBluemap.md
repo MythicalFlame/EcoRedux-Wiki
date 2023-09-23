@@ -32,6 +32,8 @@ parent: Addons
 
 ---
 
-https://github.com/EcoRedux/EcoRedux-Wiki/assets/137451345/8bfff3df-e8c7-423f-bf98-6394c621849b
+https://github.com/EcoRedux/EcoRedux-Wiki/assets/137451345/92f725da-8619-4ba5-aeda-475998375785
+
+
 
 
