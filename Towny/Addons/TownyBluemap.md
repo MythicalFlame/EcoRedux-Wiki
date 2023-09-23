@@ -2,7 +2,7 @@
 layout: page
 title: TownyBluemap
 grand_parent: Towny
-nav_order: 5
+nav_order: 6
 parent: Addons
 ---
 
