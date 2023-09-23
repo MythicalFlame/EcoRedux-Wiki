@@ -32,4 +32,6 @@ parent: Addons
 
 ---
 
-![video](https://cdn.discordapp.com/attachments/860169861798952962/1154957645875249152/Untitled.mp4)
+https://github.com/EcoRedux/EcoRedux-Wiki/assets/137451345/8bfff3df-e8c7-423f-bf98-6394c621849b
+
+
