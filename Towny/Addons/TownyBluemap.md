@@ -32,4 +32,4 @@ parent: Addons
 
 ---
 
-![banner](https://cdn.discordapp.com/attachments/955205763335356416/1142687625589821473/2023-08-20_13-10-09.mp4)
+![banner](https://cdn.discordapp.com/attachments/860169861798952962/1154957645875249152/Untitled.mp4)
