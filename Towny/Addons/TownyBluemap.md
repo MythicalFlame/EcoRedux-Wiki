@@ -32,7 +32,6 @@ parent: Addons
 
 ---
 
-[France Bluemap Gif :sob:](https://github.com/EcoRedux/EcoRedux-Wiki/assets/137451345/92f725da-8619-4ba5-aeda-475998375785)
 
 
 
